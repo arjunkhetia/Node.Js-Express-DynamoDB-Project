@@ -6,9 +6,9 @@
     "start": "node ./bin/www"
   },
   "dependencies": {
-    "aws-sdk": "^2.421.0",
+    "aws-sdk": "^2.427.0",
     "body-parser": "^1.18.3",
-    "compression": "^1.7.3",
+    "compression": "^1.7.4",
     "cookie-parser": "^1.4.4",
     "death": "^1.1.0",
     "debug": "^4.1.1",
