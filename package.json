@@ -6,8 +6,8 @@
     "start": "node ./bin/www"
   },
   "dependencies": {
-    "aws-sdk": "^2.441.0",
-    "body-parser": "^1.18.3",
+    "aws-sdk": "^2.444.0",
+    "body-parser": "^1.19.0",
     "compression": "^1.7.4",
     "cookie-parser": "^1.4.4",
     "death": "^1.1.0",
@@ -22,7 +22,7 @@
     "morgan": "^1.9.1",
     "node-toobusy": "^0.6.3",
     "request": "^2.88.0",
-    "rotating-file-stream": "^1.4.0",
+    "rotating-file-stream": "^1.4.1",
     "serve-favicon": "^2.5.0",
     "winston": "^3.2.1"
   },
